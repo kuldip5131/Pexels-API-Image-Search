@@ -1,6 +1,6 @@
 # Pexels API Image Search
 
-Live Link :-
+Live Link :- https://pexelsimagesearch.netlify.app/
 
 Video Link :-
 
